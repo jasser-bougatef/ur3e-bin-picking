@@ -1,0 +1,12 @@
+# colcon
+build/
+install/
+log/
+# Python
+__pycache__/
+*.pyc
+*.save
+# third-party packages pulled with `vcs import src < dependencies.repos`
+src/Universal_Robots_ROS2_Driver/
+src/aruco_ros/
+src/easy_handeye2/

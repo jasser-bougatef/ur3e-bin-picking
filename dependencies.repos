@@ -1,0 +1,13 @@
+repositories:
+  Universal_Robots_ROS2_Driver:
+    type: git
+    url: https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver.git
+    version: humble
+  aruco_ros:
+    type: git
+    url: https://github.com/pal-robotics/aruco_ros.git
+    version: humble-devel
+  easy_handeye2:
+    type: git
+    url: https://github.com/marcoesposito1988/easy_handeye2.git
+    version: master
